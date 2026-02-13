@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+playwright
+beautifulsoup4
+tqdm
+openpyxl
+gunicorn
